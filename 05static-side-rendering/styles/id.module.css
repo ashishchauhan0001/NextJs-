@@ -1,0 +1,21 @@
+.text{
+    color:blueviolet;
+}
+
+.text-abcs{
+    color:aqua;
+}
+
+.error {
+    color: white;
+    background-color: red;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .success {
+    color: white;
+    background-color: green;
+    padding: 10px;
+    border-radius: 5px;
+  }
